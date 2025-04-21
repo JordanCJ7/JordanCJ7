@@ -8,7 +8,6 @@
 </h1>
 
 <h3><p align="center">  ────────────────────────── ─  ⚽️ Bio ⚽️ ─ ────────────────────────── </p></h3> 
-<p align=
 
 <h3 align="center"> A dedicated Full-Stack Developer and Software Engineering undergraduate at SLIIT, <br /> passionate about crafting innovative solutions and driving impactful projects.</h3>
 
