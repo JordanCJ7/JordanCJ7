@@ -11,22 +11,22 @@
 
 <h3 align="center"> A dedicated Full-Stack Developer and Software Engineering undergraduate at SLIIT, <br /> passionate about crafting innovative solutions and driving impactful projects.</h3>
 <div align="center">
-  <img alt="Football-life" src="https://octodex.github.com/images/goretocat.png" width="300px" id="image-slider">
-</div>
+  <div align="center">
+    <img alt="Football-life" src="https://octodex.github.com/images/goretocat.png" width="300px" id="image-slider">
+  </div>
 
-<script>
-  const images = [
-    "https://octodex.github.com/images/goretocat.png",
-    "https://octodex.github.com/images/octobiwan.jpg",
-    "https://octodex.github.com/images/daftpunktocat-thomas.gif"
-  ];
-  let currentIndex = 0;
-
-  setInterval(() => {
-    currentIndex = (currentIndex + 1) % images.length;
-    document.getElementById("image-slider").src = images[currentIndex];
-  }, 3000);
-</script>
+  <script>
+    const images = [
+      "https://octodex.github.com/images/goretocat.png",
+      "https://octodex.github.com/images/octobiwan.jpg",
+      "https://octodex.github.com/images/daftpunktocat-thomas.gif"
+    ];
+    let currentIndex = 0;
+    setInterval(() => {
+      currentIndex = (currentIndex + 1) % images.length;
+      document.getElementById("image-slider").src = images[currentIndex];
+    }, 3000);
+  </script>
 
 <div align="center">
  <h3>🫱🏻‍🫲🏻 Join & Collaborate with me</h3>
