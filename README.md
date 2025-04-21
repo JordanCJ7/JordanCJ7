@@ -63,5 +63,7 @@
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JordanCJ7&theme=algolia&show_icons=true&locale=en&layout=compact" alt="JordanCJ7" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanCJ7&theme=algolia&show_icons=true&locale=en" alt="JordanCJ7" /></p>
   <br>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanCJ7&theme=algolia&show_icons=true&locale=en" alt="JordanCJ7" /></p>
+  <br>
   Thanks for visiting! Let's code the future together. 🚀✨
 </div>
