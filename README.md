@@ -11,7 +11,7 @@
 <h3 align="center"> A passionate Full-Stack Developer with a strong foundation <br /> as an undergraduate <br /> Software Engineering student at SLIIT.</h3>
 
 <div align="center">
-  <img alt="coding-life" src="/octocat/goretocat.png" width="300px">
+  <img alt="coding-life" src="https://octodex.github.com/images/goretocat.png" width="300px">
 </div>
 
 <div align="center">
@@ -32,7 +32,7 @@
 🌱 I’m currently learning **modern web technologies, cloud technologies, and scalable software architectures**.  
 👯 I’m looking to collaborate on **open-source projects, web applications, and innovative tech solutions**.  
 🌍 Exploring: **ML & Power BI**.  
-📫 Portfolio: [https://portfolio-janindu.vercel.app/](https://portfolio-janindu.vercel.app/)  
+<!-- 📫 Portfolio: [https://portfolio-janindu.vercel.app/](https://portfolio-janindu.vercel.app/) -->
 ♏ Nickname: **CJ7**  
 ⚡ Fun fact: **I love gaming and digital AI-driven web ddeveloping!**  
 
