@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello+Folks!+🌍;+I'm+Janitha+Gamage!+🤠;+Intern+Project+Manager+;+FullStack+Developer+👨‍💻;+Software+Engineering+Undergratuate+🎓;+Postman+Student+Expert+🖋;+Microsoft+Student+ambassador+🎖;" />
 </h1>
 
-<h3><p align="center">  ────────────────────────── ─  🏋️‍♀️ Skills 🏋️‍♀️ ─ ────────────────────────── </p></h3> 
+<h3><p align="center">  ────────────────────────── ─  ⚽️ Bio ⚽️ ─ ────────────────────────── </p></h3> 
 <p align="center"> ──────────────────────────────── ─  ⚽️  ─ ────────────────────────────────</p> 
 
 <h3 align="center"> A dedicated Full-Stack Developer and Software Engineering undergraduate at SLIIT, <br /> passionate about crafting innovative solutions and driving impactful projects.</h3>
