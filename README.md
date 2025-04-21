@@ -8,7 +8,7 @@
 </h1>
    <p align="center"> ──────────────────────────────── ─  ⚽️  ─ ────────────────────────────────</p> 
 
-<h3 align="center"> A passionate Full-Stack Developer with a strong foundation <br /> as an undergraduate <br /> Software Engineering Undergratuate at SLIIT.</h3>
+<h3 align="center"> A dedicated Full-Stack Developer and Software Engineering undergraduate at SLIIT, <br /> passionate about crafting innovative solutions and driving impactful projects.</h3>
 
 <div align="center">
   <img alt="Football-life" src="https://octodex.github.com/images/goretocat.png" width="300px">
