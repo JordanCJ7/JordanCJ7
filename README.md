@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Developers!+🌍;+I'm+Janitha+Gamage!+👽;+Software+Engineer+🦂;+FullStack+Developer+👨‍💻;+Project+Manager+🎨;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Folks!+🌍;+I'm+Janitha+Gamage!+👽;+Intern=Project+Manager+🦂;+FullStack+Developer+👨‍💻;+Software+Engineer+Undergratuate+🎨;" />
 </h1>
    <p align="center"> ──────────────────────────────── ─  👽  ─ ────────────────────────────────</p> 
 
@@ -28,13 +28,13 @@
 <div align="center">
 
 ### 🔥 Rapid Fire
-🔭 I’m currently working on **full-stack development projects at Boron Corporation**.  
+🔭 I’m currently working on **full-stack development projects at Flashboard**.  
 🌱 I’m currently learning **modern web technologies, cloud technologies, and scalable software architectures**.  
 👯 I’m looking to collaborate on **open-source projects, web applications, and innovative tech solutions**.  
-🌍 Exploring: **Next.JS 15 & Tailwind V4**.  
+🌍 Exploring: **ML & Power BI**.  
 📫 Portfolio: [https://portfolio-janindu.vercel.app/](https://portfolio-janindu.vercel.app/)  
 ♏ Nickname: **CJ7**  
-⚡ Fun fact: **I love gaming and digital art—reimagining designs in modern ways!**  
+⚡ Fun fact: **I love gaming and digital AI-driven web ddeveloping!**  
 
 </div>
 
