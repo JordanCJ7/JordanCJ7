@@ -60,6 +60,7 @@
 </p>
 
 <div align="center">
+  <br>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" alt="JordanCJ7" /></p>
   <br>
   <p>&nbsp;<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=JordanCJ7&theme=vision-friendly-dark&hide_border=false" alt="JordanCJ7" /></p>
