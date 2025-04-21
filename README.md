@@ -34,7 +34,7 @@
 🌍 Exploring: **ML & Power BI**.  
 <!-- 📫 Portfolio: [https://portfolio-janindu.vercel.app/](https://portfolio-janindu.vercel.app/) -->
 ♏ Nickname: **CJ7**  
-⚡ Fun fact: **I love gaming and digital AI-driven web ddeveloping!**  
+⚡ Fun fact: **I love gaming and AI-driven web ddeveloping!**  
 
 </div>
 
