@@ -11,7 +11,7 @@
 <h3 align="center"> A passionate Full-Stack Developer with a strong foundation br as an undergraduate <br /> Software Engineering student at SLIIT.</h3>
 
 <div align="center">
-  <img alt="coding-life" src="/octocat/octocat.png" width="300px">
+  <img alt="coding-life" src="src/images/goretocat.png" width="300px">
 </div>
 
 <div align="center">
