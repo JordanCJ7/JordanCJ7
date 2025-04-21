@@ -29,8 +29,8 @@
 
 ### 🔥 Rapid Fire
 🔭 **Current Focus**: Advancing my expertise in **full-stack development** through impactful projects at **Flashboard**.  
-🌱 **Continuous Learning**: Exploring **modern web technologies**, **cloud computing**, and **scalable software design** to stay ahead in the tech landscape.  
-👯 **Collaboration Goals**: Open to contributing to **open-source initiatives**, building **cutting-edge web applications**, and driving **innovative tech solutions**.  
+🌱 **Continuous Learning**: Diving into **blockchain development**, **cybersecurity**, and **IoT solutions** to expand my technical horizons.  
+👯 **Collaboration Goals**: Excited to work on **decentralized applications**, **secure software systems**, and **smart device integrations**.  
 🌍 **Areas of Exploration**: Delving into **Machine Learning** and **Power BI** to unlock data-driven insights.  
 <!-- 📫 Portfolio: [https://portfolio-janindu.vercel.app/](https://portfolio-janindu.vercel.app/) -->
 ♏ Nickname: **CJ7**  
