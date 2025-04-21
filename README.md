@@ -4,18 +4,18 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Folks!+🌍;+I'm+Janitha+Gamage!+👽;+Intern+Project+Manager+🦂;+FullStack+Developer+👨‍💻;+Software+Engineer+Undergratuate+🎨;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Folks!+🌍;+I'm+Janitha+Gamage!+🤖;+Intern+Project+Manager+🦂;+FullStack+Developer+👨‍💻;+Undergratuate+Software+Engineer+🎨;" />
 </h1>
-   <p align="center"> ──────────────────────────────── ─  👽  ─ ────────────────────────────────</p> 
+   <p align="center"> ──────────────────────────────── ─  🤖  ─ ────────────────────────────────</p> 
 
-<h3 align="center"> A passionate Full-Stack Developer with a strong foundation <br /> as an undergraduate <br /> Software Engineering student at SLIIT.</h3>
+<h3 align="center"> A passionate Full-Stack Developer with a strong foundation <br /> as an undergraduate <br /> Software Engineering Undergratuate at SLIIT.</h3>
 
 <div align="center">
-  <img alt="coding-life" src="https://octodex.github.com/images/goretocat.png" width="300px">
+  <img alt="Football-life" src="https://octodex.github.com/images/goretocat.png" width="300px">
 </div>
 
 <div align="center">
- <h3>🫱🏻‍🫲🏻 Connect with me</h3>
+ <h3>🫱🏻‍🫲🏻 Join & Collaborate with me</h3>
 </div> 
 <p align="center"> 
   <a href="https://github.com/JordanCJ7"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
