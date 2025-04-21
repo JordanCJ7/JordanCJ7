@@ -10,23 +10,10 @@
 <h3><p align="center">  ────────────────────────── ─  ⚽️ Bio ⚽️ ─ ────────────────────────── </p></h3> 
 
 <h3 align="center"> A dedicated Full-Stack Developer and Software Engineering undergraduate at SLIIT, <br /> passionate about crafting innovative solutions and driving impactful projects.</h3>
-<div align="center">
-  <div align="center">
-    <img alt="Football-life" src="https://octodex.github.com/images/goretocat.png" width="300px" id="image-slider">
-  </div>
 
-  <script>
-    const images = [
-      "https://octodex.github.com/images/goretocat.png",
-      "https://octodex.github.com/images/octobiwan.jpg",
-      "https://octodex.github.com/images/daftpunktocat-thomas.gif"
-    ];
-    let currentIndex = 0;
-    setInterval(() => {
-      currentIndex = (currentIndex + 1) % images.length;
-      document.getElementById("image-slider").src = images[currentIndex];
-    }, 3000);
-  </script>
+<div align="center">
+  <img alt="Football-life" src=src="https://readme-typing-svg.herokuapp.com/?lines=Image+1;Image+2;Image+3&center=true&width=380&height=45" width="300px">
+</div>
 
 <div align="center">
  <h3>🫱🏻‍🫲🏻 Join & Collaborate with me</h3>
