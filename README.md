@@ -40,7 +40,7 @@
 
 
 <div align="center">
- <h3>🤖 Skills
+ <h3>🏋️‍♀️ Skills
 </div>  
 <p align="center">  
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,python,c,cpp,kotlin,dart" />
