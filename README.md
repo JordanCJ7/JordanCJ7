@@ -34,7 +34,7 @@
 🌍 **Areas of Exploration**: Delving into **Machine Learning** and **Power BI** to unlock data-driven insights.  
 <!-- 📫 Portfolio: [https://portfolio-janindu.vercel.app/](https://portfolio-janindu.vercel.app/) -->
 ♏ Nickname: **CJ7**  
-⚡ Fun fact: **I love gaming and AI-driven web ddeveloping!**  
+⚡ Fun fact: **I love gaming and AI-driven web developing!**  
 
 </div>
 
