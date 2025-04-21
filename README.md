@@ -8,7 +8,7 @@
 </h1>
    <p align="center"> ──────────────────────────────── ─  👽  ─ ────────────────────────────────</p> 
 
-<h3 align="center"> A passionate Full-Stack Developer with a strong foundation br as an undergraduate <br /> Software Engineering student at SLIIT.</h3>
+<h3 align="center"> A passionate Full-Stack Developer with a strong foundation <br /> as an undergraduate <br /> Software Engineering student at SLIIT.</h3>
 
 <div align="center">
   <img alt="coding-life" src="/octocat/goretocat.png" width="300px">
