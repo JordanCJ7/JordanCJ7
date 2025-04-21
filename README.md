@@ -29,7 +29,7 @@
 
 ### 🔥 Rapid Fire
 🔭 **Current Focus**: Advancing my expertise in **full-stack development** through impactful projects at **Flashboard**.  
-🌱 **Continuous Learning**: Diving into **blockchain development**, **cybersecurity**, and **IoT solutions** to expand my technical horizons.  
+🌱 **Continuous Learning**: Diving into **blockchain development**, **AI-driven automation**, and **IoT solutions** to expand my technical horizons.  
 👯 **Collaboration Goals**: Excited to work on **decentralized applications**, **secure software systems**, and **smart device integrations**.  
 🌍 **Areas of Exploration**: Delving into **Machine Learning** and **Power BI** to unlock data-driven insights.  
 <!-- 📫 Portfolio: [https://portfolio-janindu.vercel.app/](https://portfolio-janindu.vercel.app/) -->
