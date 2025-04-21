@@ -28,10 +28,10 @@
 <div align="center">
 
 ### 🔥 Rapid Fire
-🔭 I’m currently working on **full-stack development projects at Flashboard**.  
-🌱 I’m currently learning **modern web technologies, cloud technologies, and scalable software architectures**.  
-👯 I’m looking to collaborate on **open-source projects, web applications, and innovative tech solutions**.  
-🌍 Exploring: **ML & Power BI**.  
+🔭 **Current Focus**: Advancing my expertise in **full-stack development** through impactful projects at **Flashboard**.  
+🌱 **Continuous Learning**: Exploring **modern web technologies**, **cloud computing**, and **scalable software design** to stay ahead in the tech landscape.  
+👯 **Collaboration Goals**: Open to contributing to **open-source initiatives**, building **cutting-edge web applications**, and driving **innovative tech solutions**.  
+🌍 **Areas of Exploration**: Delving into **Machine Learning** and **Power BI** to unlock data-driven insights.  
 <!-- 📫 Portfolio: [https://portfolio-janindu.vercel.app/](https://portfolio-janindu.vercel.app/) -->
 ♏ Nickname: **CJ7**  
 ⚡ Fun fact: **I love gaming and AI-driven web ddeveloping!**  
