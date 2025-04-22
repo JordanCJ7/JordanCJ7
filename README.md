@@ -58,6 +58,8 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=redux,tomcat" />
 </p>
 
+<h3><p align="center">  ────────────────────────── ─  🏋️‍♀️ Skills 🏋️‍♀️ ─ ────────────────────────── </p></h3> 
+
 <div align="center">
   <br>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" alt="JordanCJ7" /></p>
