@@ -82,3 +82,13 @@
   <br>
   Thanks for visiting! Let's code the future together... 🚀✨
 </div>
+
+<div align="center">
+  <br>
+  <p>
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quote Image"></p>
+  <br>
+  <p>&nbsp;</p>
+  <br>
+  Thanks for visiting! Let's code the future together... 🚀✨
+</div>
