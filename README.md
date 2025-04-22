@@ -16,7 +16,7 @@
 </div>
 
 <p align="center"> 
-  <a href="https://github.com/Janinduchamod2001425"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/JordanCJ7"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
   <a href="https://linkedin.com/in/janinduchamod"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"></a>
   <a href="https://facebook.com/yourusername"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"></a>
