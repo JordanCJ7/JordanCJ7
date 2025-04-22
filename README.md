@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="coding-life" src="/octocat/github.gif" width="550px">
+  <img alt="coding-life" src="/octocat/github.gif" width="750px">
 </div>
 
 
