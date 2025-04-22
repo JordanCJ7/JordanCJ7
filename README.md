@@ -12,7 +12,7 @@
 <h3 align="center"> A dedicated Full-Stack Developer and Software Engineering undergraduate at SLIIT, <br /> passionate about crafting innovative solutions and driving impactful projects.</h3>
 
 <div align="center">
-  <img alt="Football-life" src=src="https://readme-typing-svg.herokuapp.com/?lines=Image+1;Image+2;Image+3&center=true&width=380&height=45" width="300px">
+  <img alt="Football-life" src="https://octodex.github.com/images/goretocat.png" width="300px">
 </div>
 
 <div align="center">
