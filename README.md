@@ -25,7 +25,7 @@
   <a href="https://x.com/JanithaSur33352"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (formerly Twitter)" />
   </a>
   <a href="mailto:janithasuranjana2001@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <div align="center">
