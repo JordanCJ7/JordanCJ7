@@ -41,9 +41,6 @@
 
 <h3><p align="center">  ────────────────────────── ─  🏋️‍♀️ Skills 🏋️‍♀️ ─ ────────────────────────── </p></h3> 
 
-<div align="center">
- 
-</div>  
 <p align="center">  
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,python,c,cpp,kotlin,dart" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,angular,vite,next" />
