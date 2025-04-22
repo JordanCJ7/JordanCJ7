@@ -18,7 +18,8 @@
 <div align="center">
  <h3>🫱🏻‍🫲🏻 Join & Collaborate with me</h3>
 </div> 
-<p align="center"> 
+
+<div align="center">
   <a href="https://github.com/JordanCJ7">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
   </a>
@@ -34,8 +35,8 @@
   <a href="mailto:janithasuranjana2001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+</div>
 
-</p>
 
 <div align="center">
 
