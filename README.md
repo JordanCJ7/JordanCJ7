@@ -76,7 +76,7 @@
 <div align="center">
   <br>
   <p>
-  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quote Image"></p>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=JordanCJ7&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Quote Image"></p>
   <br>
   <p>&nbsp;</p>
   <br>
