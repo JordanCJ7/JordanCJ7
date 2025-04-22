@@ -75,7 +75,7 @@
 
 <div align="center">
   <br>
-  <p><!-- To force refresh: change the value of 'v' (e.g., v=1 to v=2) to bypass GitHub cache -->
+  <p>
   <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quote Image"></p>
   <br>
   <p>&nbsp;</p>
