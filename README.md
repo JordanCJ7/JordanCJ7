@@ -19,24 +19,23 @@
  <h3>🫱🏻‍🫲🏻 Join & Collaborate with me</h3>
 </div> 
 
-<div align="center">
-  <a href="https://github.com/JordanCJ7">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 20px;">
+  <a href="https://github.com/JordanCJ7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://linkedin.com/in/janitha-gamage-742b5928b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://linkedin.com/in/janitha-gamage-742b5928b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
   </a>
-  <a href="https://x.com/JanithaSur33352">
+  <a href="https://x.com/JanithaSur33352" target="_blank">
     <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (formerly Twitter)">
   </a>
   <a href="mailto:janithasuranjana2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
-
 
 <div align="center">
 
