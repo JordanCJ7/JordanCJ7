@@ -39,6 +39,7 @@
 
 <br><br>
 <h3><p align="center">  ────────────────────────── ─  🏋️‍♀️ Skills 🏋️‍♀️ ─ ────────────────────────── </p></h3> 
+<br>
 
 <p align="center">  
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,python,c,cpp,kotlin,dart" />
