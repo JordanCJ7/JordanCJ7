@@ -26,6 +26,7 @@
 <div align="center">
 
 ### 🔥 Rapid Fire
+
 🔭 **Current Focus**: Advancing my expertise in **full-stack development** through impactful projects at **Flashboard**.  
 🌱 **Continuous Learning**: Diving into **blockchain development**, **AI-driven automation**, and **IoT solutions** to expand my horizons.  
 👯 **Collaboration Goals**: Excited to work on **decentralized applications**, **secure software systems**, and **smart device integrations**.  
@@ -71,4 +72,6 @@
   </p>
   <br>
   Thanks for visiting! Let's code the future together... 🚀✨
+
+  
 </div>
