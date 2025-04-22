@@ -33,7 +33,6 @@
   </a>
 </div>
 
-
 <div align="center">
 
 ### 🔥 Rapid Fire
