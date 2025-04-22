@@ -15,27 +15,24 @@
   <img alt="Football-life" src="https://octodex.github.com/images/goretocat.png" width="300px">
 </div>
 
-<div align="center">
- <h3>🫱🏻‍🫲🏻 Join & Collaborate with me</h3>
-</div> 
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 20px;">
-  <a href="https://github.com/JordanCJ7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub">
+  <a href="https://github.com/JordanCJ7" target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub" style="border: none; outline: none; box-shadow: none;">
   </a>
-  <a href="https://linkedin.com/in/janitha-gamage-742b5928b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://linkedin.com/in/janitha-gamage-742b5928b" target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border: none; outline: none; box-shadow: none;">
   </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
+  <a href="https://instagram.com/yourusername" target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" style="border: none; outline: none; box-shadow: none;">
   </a>
-  <a href="https://x.com/JanithaSur33352" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (formerly Twitter)">
+  <a href="https://x.com/JanithaSur33352" target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (formerly Twitter)" style="border: none; outline: none; box-shadow: none;">
   </a>
-  <a href="mailto:janithasuranjana2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:janithasuranjana2001@gmail.com" style="text-decoration: none; outline: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border: none; outline: none; box-shadow: none;">
   </a>
 </div>
+
 
 <div align="center">
 
