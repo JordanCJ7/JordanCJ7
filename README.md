@@ -84,6 +84,7 @@
 
 <div align="center">
   <br>
+  <p>&nbsp;</p>
   <p>
   <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quote Image"></p>
 </div>
