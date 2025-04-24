@@ -65,7 +65,7 @@
 <div align="center">
   <br>
   <p><!-- To force refresh: change the value of 'v' (e.g., v=1 to v=2) to bypass GitHub cache -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&v=4" alt="JordanCJ7"></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&v=5" alt="JordanCJ7"></p>
   <br>
   <p>&nbsp;<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=JordanCJ7&theme=vision-friendly-dark&hide_border=false&v=5" /></p>
   <br>
