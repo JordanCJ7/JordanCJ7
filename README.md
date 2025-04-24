@@ -1,10 +1,14 @@
 <div align="center">
+
   <img alt="CJ's-life" src="/octocat/github.gif" width="550px">
+
+  <img alt=" foodball life" src="/octocat/github.gif" width="750px">
+
 </div>
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello+Folks!+🌍;+I'm+Janitha+Gamage!+🤠;+Intern+Project+Manager+;+FullStack+Developer+👨‍💻;+Software+Engineering+Undergratuate+🎓;+Postman+Student+Expert+🖋;+Microsoft+Student+ambassador+🎖;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello+Folks!+🌍;+I'm+Janitha+Gamage!+🤠;+Intern+Project+Manager+💼;+FullStack+Developer+👨‍💻;+Software+Engineering+Undergratuate+🎓;+Postman+Student+Expert+✏️;+Microsoft+Student+ambassador+🏅;" />
 </h1>
 
 <h3><p align="center">  ────────────────────────── ─  ⚽️ Bio ⚽️ ─ ────────────────────────── </p></h3> 
@@ -12,30 +16,21 @@
 <h3 align="center"> A dedicated Full-Stack Developer and Software Engineering undergraduate at SLIIT, <br /> passionate about crafting innovative solutions and driving impactful projects.</h3>
 
 <div align="center">
-  <img alt="Football-life" src="https://octodex.github.com/images/goretocat.png" width="300px">
+  <img alt="Football-life" src="/octocat/octocat-JordanCJ7.png" width="300px">
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 20px;">
-  <a href="https://github.com/JordanCJ7" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub" style="border: none; outline: none; box-shadow: none;">
-  </a>
-  <a href="https://linkedin.com/in/janitha-gamage-742b5928b" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border: none; outline: none; box-shadow: none;">
-  </a>
-  <a href="https://instagram.com/yourusername" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" style="border: none; outline: none; box-shadow: none;">
-  </a>
-  <a href="https://x.com/JanithaSur33352" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (formerly Twitter)" style="border: none; outline: none; box-shadow: none;">
-  </a>
-  <a href="mailto:janithasuranjana2001@gmail.com" style="text-decoration: none; outline: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border: none; outline: none; box-shadow: none;">
-  </a>
-</div>
+<p align="center"> 
+  <a href="https://github.com/JordanCJ7"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
+  <a href="https://linkedin.com/in//janitha-gamage-742b5928b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"></a>
+  <a href="https://x.com/JanithaGamage01"> <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (formerly Twitter)"></a>
+  <a href="mailto:janithasuranjana2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 <div align="center">
 
 ### 🔥 Rapid Fire
+
 🔭 **Current Focus**: Advancing my expertise in **full-stack development** through impactful projects at **Flashboard**.  
 🌱 **Continuous Learning**: Diving into **blockchain development**, **AI-driven automation**, and **IoT solutions** to expand my horizons.  
 👯 **Collaboration Goals**: Excited to work on **decentralized applications**, **secure software systems**, and **smart device integrations**.  
@@ -46,7 +41,9 @@
 
 </div>
 
+<br><br>
 <h3><p align="center">  ────────────────────────── ─  🏋️‍♀️ Skills 🏋️‍♀️ ─ ────────────────────────── </p></h3> 
+<br>
 
 <p align="center">  
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,python,c,cpp,kotlin,dart" />
@@ -65,20 +62,35 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=redux,tomcat" />
 </p>
 
-<h3><p align="center">  ────────────────────────── ─  🏋️‍♀️ Stats 🏋️‍♀️ ─ ────────────────────────── </p></h3> 
+<br><br>
+<h3><p align="center">  ────────────────────────── ─  📊 Stats 📊 ─ ────────────────────────── </p></h3> 
+<br>
 
 <div align="center">
   <br>
   <p><!-- To force refresh: change the value of 'v' (e.g., v=1 to v=2) to bypass GitHub cache -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&v=2" alt="JordanCJ7">
-  </p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&v=4" alt="JordanCJ7"></p>
   <br>
-  <p>&nbsp;<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=JordanCJ7&theme=vision-friendly-dark&hide_border=false&v=2" />
-  </p>
+  <p>&nbsp;<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=JordanCJ7&theme=vision-friendly-dark&hide_border=false&v=4" /></p>
   <br>
   <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=2" />
-  </p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=3" /></p>
+</div>
+
+<br><br>
+<h3><p align="center">  ─────────────────────── ─  🏆 Achievements 🏆 ─ ─────────────────────── </p></h3> 
+<br>
+
+<div align="center">
+  <br>
+  <p>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=JordanCJ7&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Quote Image"></p>
+</div>
+
+<div align="center">
+  <p>&nbsp;</p>
+  <p>
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quote Image"></p>
   <br>
   Thanks for visiting! Let's code the future together... 🚀✨
 </div>
