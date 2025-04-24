@@ -1,5 +1,9 @@
 <div align="center">
+
+  <img alt="CJ's-life" src="/octocat/github.gif" width="550px">
+
   <img alt=" foodball life" src="/octocat/github.gif" width="750px">
+
 </div>
 
 
