@@ -65,12 +65,12 @@
 <div align="center">
   <br>
   <p><!-- To force refresh: change the value of 'v' (e.g., v=1 to v=2) to bypass GitHub cache -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&v=3" alt="JordanCJ7"></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&v=4" alt="JordanCJ7"></p>
   <br>
-  <p>&nbsp;<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=JordanCJ7&theme=vision-friendly-dark&hide_border=false&v=3" /></p>
+  <p>&nbsp;<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=JordanCJ7&theme=vision-friendly-dark&hide_border=false&v=4" /></p>
   <br>
   <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=3" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=4" /></p>
 </div>
 
 
@@ -81,7 +81,7 @@
 <div align="center">
   <br>
   <p>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=JordanCJ7&theme=radical&no-frame=false&no-bg=true&margin-w=3" alt="Quote Image"></p>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=JordanCJ7&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Quote Image"></p>
 </div>
 
 <div align="center">
