@@ -91,16 +91,6 @@
 
 <div align="center">
   <br>
-  <p><!-- To force refresh: change the value of 'v' (e.g., v=1 to v=2) to bypass GitHub cache -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&v=5" alt="JordanCJ7"></p>
-  <br>
-  <p>&nbsp;
-  <img height="100" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=JordanCJ7&theme=vision-friendly-dark&hide_border=false&v=5" />
-  <img height="100" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">
-  </p>
-  <br>
-  <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=5" /></p>
 </div>
 
