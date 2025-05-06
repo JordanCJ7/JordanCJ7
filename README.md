@@ -90,7 +90,7 @@
   <br>
   <p>
   ```markdown
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&v=7" alt="JordanCJ7">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" alt="JordanCJ7">
   ```
   </p>
   <br>
