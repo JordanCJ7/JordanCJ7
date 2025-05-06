@@ -119,7 +119,7 @@
 
   | S.No. | Certificate Name               | Issuing Authority       | Date       | Credential Link                     |
   |:-----:|:-------------------------------|:-----------------------:|:----------:|:-----------------------------------:|
-  |  1    | Postman API Fundamentals Student Expert | Canvas Credentials (Badgr) | Jan 2023 | [View Credential](https://example.com) |
+  |  1    | Postman API Fundamentals Student Expert | Canvas Credentials (Badgr) | Apr 2025 | [View Credential](https://example.com) |
   |  2    | Postman Student Expert         | Postman                 | Dec 2022   | [View Credential](https://example.com) |
   |  3    | Full-Stack Web Development     | Coursera                | Nov 2022   | [View Credential](https://example.com) |
   |  4    | Data Science Professional      | IBM                     | Oct 2022   | [View Credential](https://example.com) |
