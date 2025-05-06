@@ -87,6 +87,7 @@
 <br>
 
 <div align="center">
+  
   <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&v=5" alt="JordanCJ7">
   </p>
