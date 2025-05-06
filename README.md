@@ -64,7 +64,7 @@
 
 <br><br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h3><p align="center"> 📊 Stats 📊  </p></h3>
+<h2><p align="center"> 📊 Stats 📊  </p></h2>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 <br>
 
@@ -94,7 +94,7 @@
 
 <br><br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h3><p align="center">  🏆 Achievements 🏆 </p></h3> 
+<h3><p align="center">  🏆 Certificates and awards 🏆 </p></h3> 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
 
