@@ -64,7 +64,7 @@
 
 <br><br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h3><p align="center"><h3> Activity 🏃‍♀️‍➡️  </h3></p></h3>
+<h3><p align="center"><h2> Activity 🏃‍♀️‍➡️  </h2></p></h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 <br>
 
