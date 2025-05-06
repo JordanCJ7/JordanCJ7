@@ -133,6 +133,3 @@
   <br>
   Thanks for visiting! Let's code the future together... 🚀✨
 </div>
-
-
-[https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/D9GCL9RJ?sharingId=BA5B855C8870666]: https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/D9GCL9RJ?sharingId=BA5B855C8870666
