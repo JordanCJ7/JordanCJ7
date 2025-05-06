@@ -117,25 +117,16 @@
 
 
 <details>
-      📄 Below is a showcase of my knowledge and skills across a wide range of DevOps, cloud, and related technologies, primarily completed through [LinuxWorld Informatics Pvt. Ltd](https://www.linkedin.com/company/linuxworld-informatics-pvt-ltd).
+  <summary>📜 Certificates and Awards</summary>
 
-          <br>
+  | S.No. | Certificate Name               | Issuing Authority       | Date       | Credential Link                     |
+  |:-----:|:-------------------------------|:-----------------------:|:----------:|:-----------------------------------:|
+  |  1    | Microsoft Certified: Azure AI Fundamentals | Microsoft | Jan 2023 | [View Credential](https://example.com) |
+  |  2    | Postman Student Expert         | Postman                 | Dec 2022   | [View Credential](https://example.com) |
+  |  3    | Full-Stack Web Development     | Coursera                | Nov 2022   | [View Credential](https://example.com) |
+  |  4    | Data Science Professional      | IBM                     | Oct 2022   | [View Credential](https://example.com) |
 
-          | S.No. | Certificate Name | Issuing Authority | Date | Credential |
-          |:-----:|:-----------------|:------------------:|:----:|:----------:|
-          | 1. | JAZBAA 2.0 | LinuxWorld Informatics Pvt. Ltd. | August 2023 | [View](https://www.linkedin.com/posts/md-azfar-alam_iiec-jazbaa-20-certificate-of-participation-activity-7142721202652856320-PFFs?utm_source=share&utm_medium=member_desktop) |
-          | 2. | Summer Internship | LinuxWorld Informatics Pvt. Ltd. | September 2023 | [View](https://www.linkedin.com/posts/md-azfar-alam_summer-internship-certificate-activity-7108747092721905665-QnCj?utm_source=share&utm_medium=member_desktop) |
-          | 3. | ARTH 3.0 | LinuxWorld Informatics Pvt. Ltd. | November 2023 | [View](https://www.linkedin.com/posts/md-azfar-alam_arth-30-certificate-of-completion-activity-7241412508819808257-kagj?utm_source=share&utm_medium=member_desktop) |
-          | 4. | Industry Relevant AWS Training | LinuxWorld Informatics Pvt. Ltd. | May 2023 | [View](https://drive.google.com/file/d/1W3bKVgFCAL42-lmrM5qk1wbrs_zYkm-x/view?usp=sharing) |
-          | 5. | Jenkins CI/CD using Pipeline | LinuxWorld Informatics Pvt. Ltd. | January 2023 | [View](https://drive.google.com/file/d/17kxGNilfTU39liWtKt4un149HNzX78QY/view?usp=sharing) |
-          | 6. | Specialization in Container | LinuxWorld Informatics Pvt. Ltd. | April 2023 | [View](https://drive.google.com/file/d/1UkIQfQHMLSXLOeS_s8gFXm7cRoLNSZS5/view?usp=drive_link) |
-          | 7. | Bash Shell Scripting | LinuxWorld Informatics Pvt. Ltd. | January 2023 | [View](https://drive.google.com/file/d/10E7r8sRuxEO5Cb8yw_O5jTzddHCnEzvI/view?usp=drive_link) |
-          | 8. | MongoDB - NoSQL | LinuxWorld Informatics Pvt. Ltd. | April 2023 | [View](https://drive.google.com/file/d/1scEDURMvPz5K1CnCO8voyB2psHIO1P1c/view?usp=drive_link) |
-          | 9. | Monitoring using Prometheus & Grafana | LinuxWorld Informatics Pvt. Ltd. | May 2023 | [View](https://drive.google.com/file/d/1Zth5UR3RRePJ3phIHjvcxigZEbcVsUfK/view?usp=drive_link) |
-          | 10. | Managing Infrastructure using Terraform | LinuxWorld Informatics Pvt. Ltd. | February 2023 | [View](https://drive.google.com/file/d/1pyXT6jL1UIwyW2m8dLCtNs2mcELthOpi/view?usp=drive_link) |
-          | 11. | RHEL Automation with Ansible (294) | RedHat | December 2022 | [View](https://drive.google.com/file/d/16OB5BpfLHIomVgyDGVxkraTp9_VQ7YmH/view?usp=drive_link) |
-          | 12. | AWS Cloud with AI | LinuxWorld Informatics Pvt. Ltd. | August 2023 | [View](https://drive.google.com/file/d/1Obk4hSorYG2XjcTG2nPjk4W1_uiPIIrE/view?usp=sharing) |
-</details>      
+</details>   
 
 
 <div align="center">
