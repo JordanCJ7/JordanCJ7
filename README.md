@@ -115,6 +115,8 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
 
+  <div align="center">
+
   | S.No. | Certificate Name               | Issuing Authority       | Date       | Credential Link                     |
   |:-----:|:-------------------------------|:-----------------------:|:----------:|:-----------------------------------:|
   |  1    | Microsoft Certified: Azure AI Fundamentals | Microsoft | Jan 2023 | [View Credential](https://example.com) |
@@ -122,6 +124,7 @@
   |  3    | Full-Stack Web Development     | Coursera                | Nov 2022   | [View Credential](https://example.com) |
   |  4    | Data Science Professional      | IBM                     | Oct 2022   | [View Credential](https://example.com) |
 
+  </div>
 
 <div align="center">
   <p>&nbsp;</p>
