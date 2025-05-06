@@ -27,7 +27,7 @@
 
 <div align="center">
 
-### 🔥 Rapid Fire
+### 🔥 About me
 
 🔭 **Current Focus**: Advancing my expertise in **full-stack development** through impactful projects at **Flashboard**.  
 🌱 **Continuous Learning**: Diving into **blockchain development**, **AI-driven automation**, and **IoT solutions** to expand my horizons.  
