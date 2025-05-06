@@ -83,6 +83,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=5" /></p>
 </div>
 
+<br><br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h3><p align="center"> 📊 Stats 📊  </p></h3>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+<br>
+
 
 <br><br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
