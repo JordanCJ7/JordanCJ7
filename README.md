@@ -121,8 +121,8 @@
   |:-----:|:-------------------------------|:-----------------------:|:----------:|:-----------------------------------:|
   |  1    | Postman API Fundamentals Student Expert | Canvas Credentials (Badgr) | Apr 2025 | [View Credential](https://api.badgr.io/public/assertions/bTETPxnZT7u-hDzCuaUN4A) |
   |  2    | Introduction to Git | Microsoft Learning | Apr 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/W2AYU5FN?sharingId=BA5B855C8870666) |
-  |  3    | Introduction to GitHub | Microsoft Learning | Apr 2025 | [View Credential](hhttps://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/FM2RMKUX?sharingId=BA5B855C8870666) |
-  |  4    | Introduction to GitHub Copilot | Microsoft Learning | Apr 2022 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/D9GCL9RJ?sharingId=BA5B855C8870666) |
+  |  3    | Introduction to GitHub | Microsoft Learning | Apr 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/FM2RMKUX?sharingId=BA5B855C8870666) |
+  |  4    | Introduction to GitHub Copilot | Microsoft Learning | Apr 2022 | [View Credential][https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/D9GCL9RJ?sharingId=BA5B855C8870666] |
 
   </div>
 
@@ -133,3 +133,6 @@
   <br>
   Thanks for visiting! Let's code the future together... 🚀✨
 </div>
+
+
+[https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/D9GCL9RJ?sharingId=BA5B855C8870666]: https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/D9GCL9RJ?sharingId=BA5B855C8870666
