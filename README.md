@@ -71,7 +71,6 @@
 <div align="center">
   <br>
   <!-- To force refresh: change the value of 'v' (e.g., v=1 to v=2) to bypass GitHub cache -->
-  
   <br>
   <p>&nbsp;
   <img height="100" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
