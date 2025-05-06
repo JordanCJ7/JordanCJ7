@@ -121,7 +121,7 @@
   |:-----:|:-------------------------------|:-----------------------:|:----------:|:-----------------------------------:|
   |  1    | Postman API Fundamentals Student Expert | Canvas Credentials (Badgr) | Apr 2025 | [View Credential](https://api.badgr.io/public/assertions/bTETPxnZT7u-hDzCuaUN4A) |
   |  2    | Introduction to Git | Microsoft Learning | Apr 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/W2AYU5FN?sharingId=BA5B855C8870666) |
-  |  3    | Full-Stack Web Development     | Coursera                | Nov 2022   | [View Credential](https://example.com) |
+  |  3    | Introduction to GitHub | Microsoft Learning | Apr 2025 | [View Credential](hhttps://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/FM2RMKUX?sharingId=BA5B855C8870666) |
   |  4    | Data Science Professional      | IBM                     | Oct 2022   | [View Credential](https://example.com) |
 
   </div>
