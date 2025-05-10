@@ -11,8 +11,8 @@
   <h2>Table of Contents</h2>
 </div>
 
-- [Bio ⚽️](#bio-️)
-- [About Me 🔥](#about-me-)
+- [Bio ⚽️](#Bio-️)
+- [About Me 🔥](#about-me-🔥)
 - [Skills 🏋️‍♀️](#skills-️)
 - [Activity 🏃‍♀️‍➡️](#activity-️)
 - [Stats 📊](#stats-️)
