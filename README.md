@@ -121,7 +121,7 @@
 | **Flashboard Central** | A web app that provides detailed information about Flashboard features, its history, upcoming developments, and a contact platform for the admin team. | [View Project](https://github.com/JordanCJ7/FlashBoard-Wiki) |
 | **FoodieFly** | A modern, cloud-native food ordering and delivery system built with microservices architecture. | [View Project](https://github.com/JordanCJ7/FoodieFly) |
 | **EarthScope** | A modern React application that displays comprehensive country information using the REST Countries API | [View Project](https://github.com/JordanCJ7/EarthScope-JavaScript) |
-| **GIF Generator**| A  | [View Project](https://github.com/JordanCJ7/GIF-Generator) |
+| **GIF Generator**| A a Python app using Tkinter and Pillow that lets users create custom animated GIFs with adjustable frame duration, resolution, and a live preview. | [View Project](https://github.com/JordanCJ7/GIF-Generator) |
 
 </div>
 
