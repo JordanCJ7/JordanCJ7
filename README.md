@@ -118,7 +118,7 @@
 
 | Project Name       | Description                                                                | Link                                                          |
 |:-------------------|:--------------------------------------------------------------------------:|:-------------------------------------------------------------:|
-| **Flashboard Central**     | A dynamic dashboard for managing tasks and projects efficiently.           | [View Project](https://github.com/JordanCJ7/Flashboard)       |
+| **Flashboard Central**     | A web app that provides detailed information about Flashboard features, its history, upcoming developments, and a contact platform for the admin team.           | [View Project](https://github.com/JordanCJ7/Flashboard)       |
 | **AI Chatbot**     | An AI-driven chatbot for customer support and automation.                  | [View Project](https://github.com/JordanCJ7/AI-Chatbot)       |
 | **Portfolio Site** | A personal portfolio showcasing skills, projects, and achievements.        | [View Project](https://github.com/JordanCJ7/Portfolio-Site)   |
 | **IoT Home System**| A smart home system integrating IoT devices for automation and monitoring. | [View Project](https://github.com/JordanCJ7/IoT-Home-System)  |
