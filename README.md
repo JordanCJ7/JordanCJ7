@@ -133,7 +133,7 @@
 
 <div align="center">
 
-| Project Name       | Description                               | Link                                     |
+| Project Name       | Description                                                                | Link                                                          |
 |--------------------|----------------------------------------------------------------------------|---------------------------------------------------------------|
 | **Flashboard**     | A dynamic dashboard for managing tasks and projects efficiently.           | [View Project](https://github.com/JordanCJ7/Flashboard)       |
 | **AI Chatbot**     | An AI-driven chatbot for customer support and automation.                  | [View Project](https://github.com/JordanCJ7/AI-Chatbot)       |
