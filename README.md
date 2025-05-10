@@ -14,7 +14,7 @@
 <h3 align="center"> A dedicated Full-Stack Developer and Software Engineering undergraduate at SLIIT, <br /> passionate about crafting innovative solutions and driving impactful projects.</h3>
 
 <div align="center">
-  <img alt="Football-life" src="/octocat/octocat-JordanCJ7.png" width="300px">
+  <img alt="Octocat mascot wearing a football jersey, holding a football, and standing on a grassy field with a bright and cheerful atmosphere" src="/octocat/octocat-JordanCJ7.png" width="300px">
 </div>
 
 <p align="center"> 
