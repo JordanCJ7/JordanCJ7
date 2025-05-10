@@ -121,7 +121,7 @@
 | **Flashboard Central** | A web app that provides detailed information about Flashboard features, its history, upcoming developments, and a contact platform for the admin team. | [View Project](https://github.com/JordanCJ7/FlashBoard-Wiki) |
 | **FoodieFly** | A modern, cloud-native food ordering and delivery system built with microservices architecture. | [View Project](https://github.com/JordanCJ7/FoodieFly) |
 | **EarthScope** | A modern React application that displays comprehensive country information using the REST Countries API | [View Project](https://github.com/JordanCJ7/EarthScope-JavaScript) |
-| ****| A smart home system integrating IoT devices for automation and monitoring. | [View Project](https://github.com/JordanCJ7/IoT-Home-System) |
+| **GIF-Generator**| A smart home system integrating IoT devices for automation and monitoring. | [View Project](https://github.com/JordanCJ7/IoT-Home-System) |
 
 </div>
 
