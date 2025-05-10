@@ -108,6 +108,7 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=JordanCJ7&theme=radical&no-frame=false&no-bg=true&margin-w=5" alt="Quote Image"></p>
 </div>
 
+
 <br><br>
 <img alt="Decorative animated line" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3><p align="center">  Certificates and awards 📜 </p></h3> 
