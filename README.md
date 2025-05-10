@@ -1,9 +1,5 @@
 <div align="center">
-
-  <img alt="CJ's-life" src="/octocat/github.gif" width="550px">
-
   <img alt=" foodball life" src="/octocat/github.gif" width="750px">
-
 </div>
 
 
@@ -11,7 +7,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello+Folks!+🌍;+I'm+Janitha+Gamage!+🤠;+Intern+Project+Manager+💼;+FullStack+Developer+👨‍💻;+Software+Engineering+Undergratuate+🎓;+Postman+Student+Expert+✏️;+Microsoft+Student+ambassador+🏅;" />
 </h1>
 
-<h3><p align="center">  ────────────────────────── ─  ⚽️ Bio ⚽️ ─ ────────────────────────── </p></h3> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h3><p align="center">  Bio ⚽️ </p></h3>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3 align="center"> A dedicated Full-Stack Developer and Software Engineering undergraduate at SLIIT, <br /> passionate about crafting innovative solutions and driving impactful projects.</h3>
 
@@ -21,15 +19,27 @@
 
 <p align="center"> 
   <a href="https://github.com/JordanCJ7"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/in//janitha-gamage-742b5928b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/janithagamage//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"></a>
   <a href="https://x.com/JanithaGamage01"> <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (formerly Twitter)"></a>
   <a href="mailto:janithasuranjana2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <div align="center">
+  <h2>Table of Contents</h2>
+</div>
 
-### 🔥 Rapid Fire
+- [Bio ⚽️](#bio-⚽️)
+- [About Me 🔥](#about-me)
+- [Skills 🏋️‍♀️](#skills-️)
+- [Activity 🏃‍♀️‍➡️](#activity-️)
+- [Stats 📊](#stats-️)
+- [Achievements 🏆](#achievements-️)
+- [Certificates and Awards 📜](#certificates-and-awards-️)
+
+<div align="center">
+
+### 🔥 About me
 
 🔭 **Current Focus**: Advancing my expertise in **full-stack development** through impactful projects at **Flashboard**.  
 🌱 **Continuous Learning**: Diving into **blockchain development**, **AI-driven automation**, and **IoT solutions** to expand my horizons.  
@@ -37,12 +47,14 @@
 🌍 **Areas of Exploration**: Delving into **Machine Learning** and **Power BI** to unlock data-driven insights.  
 <!-- 📫 Portfolio: [https://portfolio-janindu.vercel.app/](https://portfolio-janindu.vercel.app/) -->
 ♏ Nickname: **CJ7**  
-⚡ Fun fact: **I love gaming and AI-driven web developing!**  
+⚡ Fun fact: **I love gaming and AI-driven web development!**  
 
 </div>
 
 <br><br>
-<h3><p align="center">  ────────────────────────── ─  🏋️‍♀️ Skills 🏋️‍♀️ ─ ────────────────────────── </p></h3> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h3><p align="center"> Skills 🏋️‍♀️ </p></h3> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
 
 <p align="center">  
@@ -63,29 +75,68 @@
 </p>
 
 <br><br>
-<h3><p align="center">  ────────────────────────── ─  📊 Stats 📊 ─ ────────────────────────── </p></h3> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h3><p align="center">Activity 🏃‍♀️‍➡️ </p></h3>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 <br>
 
 <div align="center">
   <br>
-  <p><!-- To force refresh: change the value of 'v' (e.g., v=1 to v=2) to bypass GitHub cache -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&v=4" alt="JordanCJ7"></p>
-  <br>
-  <p>&nbsp;<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=JordanCJ7&theme=vision-friendly-dark&hide_border=false&v=4" /></p>
+  <!-- To force refresh: change the value of 'v' (e.g., v=1 to v=2) to bypass GitHub cache -->
   <br>
   <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=3" /></p>
+  <img height="100" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=JordanCJ7&theme=vision-friendly-dark&hide_border=false&v=5" />
+  <img height="100" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">
+  </p>
+  <br>
 </div>
 
 <br><br>
-<h3><p align="center">  ─────────────────────── ─  🏆 Achievements 🏆 ─ ─────────────────────── </p></h3> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h3><p align="center"> Stats 📊  </p></h3>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 <br>
 
 <div align="center">
   <br>
   <p>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=JordanCJ7&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Quote Image"></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&v=5" alt="JordanCJ7">
+  </p>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=5" />
+  </p>
+  <br>
 </div>
+
+<br><br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h3><p align="center">  Achievements 🏆 </p></h3> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<br>
+
+<div align="center">
+  <br>
+  <p>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=JordanCJ7&theme=radical&no-frame=false&no-bg=true&margin-w=5" alt="Quote Image"></p>
+</div>
+
+<br><br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h3><p align="center">  Certificates and awards 📜 </p></h3> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<br>
+
+  <div align="center">
+
+  | S.No. | Certificate Name               | Issuing Authority       | Date       | Credential Link                     |
+  |:-----:|:-------------------------------|:-----------------------:|:----------:|:-----------------------------------:|
+  |  1    | Postman API Fundamentals Student Expert | Canvas Credentials (Badgr) | Apr 2025 | [View Credential](https://api.badgr.io/public/assertions/bTETPxnZT7u-hDzCuaUN4A) |
+  |  2    | Introduction to Git | Microsoft Learning | Apr 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/W2AYU5FN?sharingId=BA5B855C8870666) |
+  |  3    | Introduction to GitHub | Microsoft Learning | Apr 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/FM2RMKUX?sharingId=BA5B855C8870666) |
+  |  4    | Introduction to GitHub Copilot | Microsoft Learning | Apr 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/D9GCL9RJ?sharingId=BA5B855C8870666) |
+
+  </div>
 
 <div align="center">
   <p>&nbsp;</p>
