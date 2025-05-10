@@ -108,7 +108,22 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=JordanCJ7&theme=radical&no-frame=false&no-bg=true&margin-w=5" alt="Quote Image"></p>
 </div>
 
+<br><br>
+<img alt="Decorative animated line" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h3><p align="center"> Top Projects 🚀 </p></h3>
+<img alt="Decorative animated line" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<br>
 
+<div align="center">
+
+| Project Name       | Description                                                                | Link                                                          |
+|:-------------------|:--------------------------------------------------------------------------:|:-------------------------------------------------------------:|
+| **Flashboard**     | A dynamic dashboard for managing tasks and projects efficiently.           | [View Project](https://github.com/JordanCJ7/Flashboard)       |
+| **AI Chatbot**     | An AI-driven chatbot for customer support and automation.                  | [View Project](https://github.com/JordanCJ7/AI-Chatbot)       |
+| **Portfolio Site** | A personal portfolio showcasing skills, projects, and achievements.        | [View Project](https://github.com/JordanCJ7/Portfolio-Site)   |
+| **IoT Home System**| A smart home system integrating IoT devices for automation and monitoring. | [View Project](https://github.com/JordanCJ7/IoT-Home-System)  |
+
+</div>
 
 <br><br>
 <img alt="Decorative animated line" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
