@@ -25,17 +25,7 @@
   <a href="mailto:janithasuranjana2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<div align="center">
-  <h2>Table of Contents</h2>
-</div>
 
-- [Bio ⚽️](#bio-⚽️)
-- [About Me 🔥](#about-me)
-- [Skills 🏋️‍♀️](#skills-️)
-- [Activity 🏃‍♀️‍➡️](#activity-️)
-- [Stats 📊](#stats-️)
-- [Achievements 🏆](#achievements-️)
-- [Certificates and Awards 📜](#certificates-and-awards-️)
 
 <div align="center">
 
