@@ -7,6 +7,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello+Folks!+🌍;+I'm+Janitha+Gamage!+🤠;+Intern+Project+Manager+💼;+FullStack+Developer+👨‍💻;+Software+Engineering+Undergratuate+🎓;+Postman+Student+Expert+✏️;+Microsoft+Student+ambassador+🏅;" />
 </h1>
 
+<div align="center">
+  <h2>Table of Contents</h2>
+</div>
+
+- [Bio ⚽️](#bio-⚽️)
+- [About Me 🔥](#about-me)
+- [Skills 🏋️‍♀️](#skills-️)
+- [Activity 🏃‍♀️‍➡️](#activity-️)
+- [Stats 📊](#stats-️)
+- [Achievements 🏆](#achievements-️)
+- [Certificates and Awards 📜](#certificates-and-awards-️)
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3><p align="center">  Bio ⚽️ </p></h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -24,18 +36,6 @@
   <a href="https://x.com/JanithaGamage01"> <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (formerly Twitter)"></a>
   <a href="mailto:janithasuranjana2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
-<div align="center">
-  <h2>Table of Contents</h2>
-</div>
-
-- [Bio ⚽️](#bio-⚽️)
-- [About Me 🔥](#about-me)
-- [Skills 🏋️‍♀️](#skills-️)
-- [Activity 🏃‍♀️‍➡️](#activity-️)
-- [Stats 📊](#stats-️)
-- [Achievements 🏆](#achievements-️)
-- [Certificates and Awards 📜](#certificates-and-awards-️)
 
 <div align="center">
 
