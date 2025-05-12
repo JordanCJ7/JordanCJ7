@@ -1,40 +1,27 @@
 <div align="center">
-  <img alt=" foodball life" src="/octocat/github.gif" width="750px">
+  <img alt="Octocat mascot playing football on a grassy field" src="/octocat/github.gif" width="750px">
 </div>
-
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello+Folks!+🌍;+I'm+Janitha+Gamage!+🤠;+Intern+Project+Manager+💼;+FullStack+Developer+👨‍💻;+Software+Engineering+Undergratuate+🎓;+Postman+Student+Expert+✏️;+Microsoft+Student+ambassador+🏅;" />
+    <img alt="Typing animation introducing Janitha Gamage" src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello+Folks!+🌍;+I'm+Janitha+Gamage!+🤠;+Intern+Project+Manager+💼;+FullStack+Developer+👨‍💻;+Software+Engineering+Undergratuate+🎓;+Postman+Student+Expert+✏️;+Microsoft+Student+ambassador+🏅;" />
 </h1>
 
-<div align="center">
-  <h2>Table of Contents</h2>
-</div>
-
-- [Bio ⚽️](#Bio-️)
-- [About Me 🔥](#about-me-🔥)
-- [Skills 🏋️‍♀️](#skills-️)
-- [Activity 🏃‍♀️‍➡️](#activity-️)
-- [Stats 📊](#stats-️)
-- [Achievements 🏆](#achievements-️)
-- [Certificates and Awards 📜](#certificates-and-awards-️)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img alt="Decorative animated line" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3><p align="center">  Bio ⚽️ </p></h3>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img alt="Decorative animated line" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3 align="center"> A dedicated Full-Stack Developer and Software Engineering undergraduate at SLIIT, <br /> passionate about crafting innovative solutions and driving impactful projects.</h3>
 
 <div align="center">
-  <img alt="Football-life" src="/octocat/octocat-JordanCJ7.png" width="300px">
+  <img alt="Octocat mascot wearing a football jersey, holding a football, and standing on a grassy field with a bright and cheerful atmosphere" src="/octocat/octocat-JordanCJ7.png" width="300px">
 </div>
 
 <p align="center"> 
-  <a href="https://github.com/JordanCJ7"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/janithagamage//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"></a>
-  <a href="https://x.com/JanithaGamage01"> <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (formerly Twitter)"></a>
-  <a href="mailto:janithasuranjana2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/JordanCJ7"><img alt="GitHub profile link" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/janithagamage//"><img alt="LinkedIn profile link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/yourusername"><img alt="Instagram profile link" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"></a>
+  <a href="https://x.com/JanithaGamage01"> <img alt="X (formerly Twitter) profile link" src="https://img.shields.io/badge/X_(Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:janithasuranjana2001@gmail.com"><img alt="Email link" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <div align="center">
@@ -52,9 +39,9 @@
 </div>
 
 <br><br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img alt="Decorative animated line" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3><p align="center"> Skills 🏋️‍♀️ </p></h3> 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img alt="Decorative animated line" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
 
 <p align="center">  
@@ -75,9 +62,9 @@
 </p>
 
 <br><br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img alt="Decorative animated line" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3><p align="center">Activity 🏃‍♀️‍➡️ </p></h3>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+<img alt="Decorative animated line" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 <br>
 
 <div align="center">
@@ -93,9 +80,9 @@
 </div>
 
 <br><br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img alt="Decorative animated line" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3><p align="center"> Stats 📊  </p></h3>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+<img alt="Decorative animated line" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 <br>
 
 <div align="center">
@@ -110,21 +97,39 @@
 </div>
 
 <br><br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img alt="Decorative animated line" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3><p align="center">  Achievements 🏆 </p></h3> 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img alt="Decorative animated line" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
 
 <div align="center">
   <br>
   <p>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=JordanCJ7&theme=radical&no-frame=false&no-bg=true&margin-w=5" alt="Quote Image"></p>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=JordanCJ7&theme=radical&no-frame=false&no-bg=true&margin-w=8" alt="Quote Image"></p>
 </div>
 
 <br><br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img alt="Decorative animated line" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h3><p align="center"> Top Projects 🚀 </p></h3>
+<img alt="Decorative animated line" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<br>
+
+<div align="center">
+
+| Project Name       | Description                                                                | Link                                                          |
+|:-------------------|:--------------------------------------------------------------------------:|:-------------------------------------------------------------:|
+| **Flashboard Central** | A web app that provides detailed information about Flashboard features, its history, upcoming developments, and a contact platform for the admin team. | [View Project](https://github.com/JordanCJ7/FlashBoard-Wiki) |
+| **FoodieFly** | A modern, cloud-native food ordering and delivery system built with a microservices architecture. | [View Project](https://github.com/JordanCJ7/FoodieFly) |
+| **EarthScope** | A modern React application that displays comprehensive country information using the REST Countries API | [View Project](https://github.com/JordanCJ7/EarthScope-JavaScript) |
+| **GIF Generator**| A Python app using Tkinter and Pillow lets users create custom animated GIFs with adjustable frame duration, resolution, and a live preview. | [View Project](https://github.com/JordanCJ7/GIF-Generator) |
+| **Salon Pabalu**| A web-based Salon Management System to automate operations, improve efficiency, and enhance customer experiences. | [View Project](https://github.com/JordanCJ7/ITP-Salon-Pabalu) |
+
+</div>
+
+<br><br>
+<img alt="Decorative animated line" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3><p align="center">  Certificates and awards 📜 </p></h3> 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img alt="Decorative animated line" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
 
   <div align="center">
