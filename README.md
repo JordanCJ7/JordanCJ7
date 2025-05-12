@@ -105,7 +105,7 @@
 <div align="center">
   <br>
   <p>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=JordanCJ7&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=3&row=1" alt="Trophy Image">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=JordanCJ7&theme=radical&no-frame=false&no-bg=true&margin-w=2&v=1" alt="Quote Image">
   </p>
 </div>
 
