@@ -105,7 +105,7 @@
 <div align="center">
   <br>
   <p>
-  <img 
+   
 </div>
 
 <br><br>
