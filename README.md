@@ -123,6 +123,7 @@
 | **EarthScope** | A modern React application that displays comprehensive country information using the REST Countries API | [View Project](https://github.com/JordanCJ7/EarthScope-JavaScript) |
 | **GIF Generator**| A Python app using Tkinter and Pillow lets users create custom animated GIFs with adjustable frame duration, resolution, and a live preview. | [View Project](https://github.com/JordanCJ7/GIF-Generator) |
 
+
 </div>
 
 <br><br>
