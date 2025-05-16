@@ -150,5 +150,4 @@
   <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quote Image"></p>
   <br>
   Thanks for visiting! Let's code the future together... 🚀✨
-  
 </div>
