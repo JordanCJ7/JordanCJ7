@@ -141,7 +141,7 @@
   |  2    | Introduction to Git | Microsoft Learning | Apr 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/W2AYU5FN?sharingId=BA5B855C8870666) |
   |  3    | Introduction to GitHub | Microsoft Learning | Apr 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/FM2RMKUX?sharingId=BA5B855C8870666) |
   |  4    | Introduction to GitHub Copilot | Microsoft Learning | Apr 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/D9GCL9RJ?sharingId=BA5B855C8870666) |
-  |  4    | Introduction to GitHub Copilot | Microsoft Learning | Apr 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/D9GCL9RJ?sharingId=BA5B855C8870666) |
+  |  5    | Introduction to GitHub's products | Microsoft Learning | May 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/9YAAKMKU?sharingId=BA5B855C8870666) |
 
   </div>
 
