@@ -124,6 +124,7 @@
 | **EarthScope** | A modern React application that displays comprehensive country information using the REST Countries API | [View Project](https://github.com/JordanCJ7/EarthScope-JavaScript) |
 | **GIF Generator**| A Python app using Tkinter and Pillow lets users create custom animated GIFs with adjustable frame duration, resolution, and a live preview. | [View Project](https://github.com/JordanCJ7/GIF-Generator) |
 | **Salon Pabalu**| A web-based Salon Management System to automate operations, improve efficiency, and enhance customer experiences. | [View Project](https://github.com/JordanCJ7/ITP-Salon-Pabalu) |
+| **Portfolio**| A personal portfolio website showcasing my projects, skills, and experiences. | [View Project](https://github.com/JordanCJ7/Portfolio) |
 
 </div>
 
@@ -141,6 +142,7 @@
   |  2    | Introduction to Git | Microsoft Learning | Apr 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/W2AYU5FN?sharingId=BA5B855C8870666) |
   |  3    | Introduction to GitHub | Microsoft Learning | Apr 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/FM2RMKUX?sharingId=BA5B855C8870666) |
   |  4    | Introduction to GitHub Copilot | Microsoft Learning | Apr 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/D9GCL9RJ?sharingId=BA5B855C8870666) |
+  |  5    | Introduction to GitHub's products | Microsoft Learning | May 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/9YAAKMKU?sharingId=BA5B855C8870666) |
 
   </div>
 
