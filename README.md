@@ -156,7 +156,7 @@
 </div>
 
 <br><br>
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCJ7&repo=NobleTrust) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCJ7&repo=NobleTrust)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCJ7&repo=EarthScope)
 <br><br>
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCJ7&repo=EarthScope) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
