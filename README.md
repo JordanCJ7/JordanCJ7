@@ -135,17 +135,17 @@
 <img alt="Decorative animated line" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
 
-  <div align="center">
+<div align="center">
 
-  | S.No. | Certificate Name               | Issuing Authority       | Date       | Credential Link                     |
-  |:-----:|:-------------------------------|:-----------------------:|:----------:|:-----------------------------------:|
-  |  1    | Postman API Fundamentals Student Expert | Canvas Credentials (Badgr) | Apr 2025 | [View Credential](https://api.badgr.io/public/assertions/bTETPxnZT7u-hDzCuaUN4A) |
-  |  2    | Introduction to Git | Microsoft Learning | Apr 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/W2AYU5FN?sharingId=BA5B855C8870666) |
-  |  3    | Introduction to GitHub | Microsoft Learning | Apr 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/FM2RMKUX?sharingId=BA5B855C8870666) |
-  |  4    | Introduction to GitHub Copilot | Microsoft Learning | Apr 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/D9GCL9RJ?sharingId=BA5B855C8870666) |
-  |  5    | Introduction to GitHub's products | Microsoft Learning | May 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/9YAAKMKU?sharingId=BA5B855C8870666) |
+| S.No. | Certificate Name               | Issuing Authority       | Date       | Credential Link                     |
+|:-----:|:-------------------------------|:-----------------------:|:----------:|:-----------------------------------:|
+|  1    | Postman API Fundamentals Student Expert | Canvas Credentials (Badgr) | Apr 2025 | [View Credential](https://api.badgr.io/public/assertions/bTETPxnZT7u-hDzCuaUN4A) |
+|  2    | Introduction to Git | Microsoft Learning | Apr 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/W2AYU5FN?sharingId=BA5B855C8870666) |
+|  3    | Introduction to GitHub | Microsoft Learning | Apr 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/FM2RMKUX?sharingId=BA5B855C8870666) |
+|  4    | Introduction to GitHub Copilot | Microsoft Learning | Apr 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/D9GCL9RJ?sharingId=BA5B855C8870666) |
+|  5    | Introduction to GitHub's products | Microsoft Learning | May 2025 | [View Credential](https://learn.microsoft.com/api/achievements/share/en-us/JanithaSuranjanaLakshanGamage/9YAAKMKU?sharingId=BA5B855C8870666) |
 
-  </div>
+</div>
 
 <div align="center">
   <p>&nbsp;</p>
@@ -154,3 +154,6 @@
   <br>
   Thanks for visiting! Let's code the future together... 🚀✨
 </div>
+
+<br><br>
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCJ7&repo=NobleTrust)
