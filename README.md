@@ -156,7 +156,7 @@
 </div>
 
 <br><br>
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCJ7&repo=NobleTrust&cache_bust=1)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCJ7&repo=EarthScope&cache_bust=1)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCJ7&repo=Portfolio&cache_bust=1)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCJ7&repo=Markdown-Fundamentals&cache_bust=1)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCJ7&repo=NobleTrust&theme=radical&cache_bust=1)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCJ7&repo=EarthScope&theme=radical&cache_bust=1)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCJ7&repo=Portfolio&theme=radical&cache_bust=1)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCJ7&repo=Markdown-Fundamentals&theme=radical&cache_bust=1)
