@@ -125,7 +125,8 @@
 | **GIF Generator** | A Python app using Tkinter and Pillow lets users create custom animated GIFs with adjustable frame duration, resolution, and a live preview. | [View Project](https://github.com/JordanCJ7/GIF-Generator) |
 | **Salon Pabalu** | A web-based Salon Management System to automate operations, improve efficiency, and enhance customer experiences. | [View Project](https://github.com/JordanCJ7/ITP-Salon-Pabalu) |
 | **Portfolio**| A personal portfolio website showcasing my projects, skills, and experiences. | [View Project](https://github.com/JordanCJ7/Portfolio) |
-| **NobleTrust** | A responsive static website for a fictional insurance company, built with HTML5, Sass, and vanilla JavaScript to showcase its products and services. | [View Project](https://github.com/JordanCJ7/NobleTrust) || **NobleTrust** | A responsive static website for a fictional insurance company, built with HTML5, Sass, and vanilla JavaScript to showcase its products and services. | [View Project](https://github.com/JordanCJ7/NobleTrust) |
+| **NobleTrust** | A responsive static website for a fictional insurance company, built with HTML5, Sass, and vanilla JavaScript to showcase its products and services. | [View Project](https://github.com/JordanCJ7/NobleTrust) | 
+| **NobleTrust** | A responsive static website for a fictional insurance company, built with HTML5, Sass, and vanilla JavaScript to showcase its products and services. | [View Project](https://github.com/JordanCJ7/NobleTrust) |
 
 
 </div>
