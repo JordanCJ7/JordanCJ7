@@ -126,7 +126,7 @@
 | **Salon Pabalu** | A web-based Salon Management System to automate operations, improve efficiency, and enhance customer experiences. | [View Project](https://github.com/JordanCJ7/ITP-Salon-Pabalu) |
 | **Portfolio**| A personal portfolio website showcasing my projects, skills, and experiences. | [View Project](https://github.com/JordanCJ7/Portfolio) |
 | **NobleTrust** | A responsive static website for a fictional insurance company, built with HTML5, Sass, and vanilla JavaScript to showcase its products and services. | [View Project](https://github.com/JordanCJ7/NobleTrust) | 
-| **Dry Drop** | Amodern laundry management system. | [View Project](https://github.com/JordanCJ7/Dry-Drop) |
+| **Dry Drop** | A modern laundry management system implemented using PHP, HTML5, CSS3, and JS. | [View Project](https://github.com/JordanCJ7/Dry-Drop) |
 
 
 </div>
