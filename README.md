@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-    <img alt="Typing animation introducing Janitha Gamage" src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello+Folks!+🌍;+I'm+Janitha+Gamage!+🤠;+Intern+Project+Manager+💼;+FullStack+Developer+👨‍💻;+Software+Engineering+Undergratuate+🎓;+Postman+Student+Expert+✏️;+Microsoft+Student+ambassador+🏅;" />
+    <img alt="Typing animation introducing Janitha Gamage" src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello+Folks!+🌍;+I'm+Janitha+Gamage!+🤠;+Emerging+Developer+&+Product+Strategist+💼;+FullStack+Developer+👨‍💻;+Software+Engineering+Undergratuate+🎓;+Postman+Student+Expert+✏️;+Microsoft+Student+ambassador+🏅;" />
 </h1>
 
 <img alt="Decorative animated line" src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
