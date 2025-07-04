@@ -32,7 +32,7 @@
 🌱 **Continuous Learning**: Diving into **blockchain development**, **AI-driven automation**, and **IoT solutions** to expand my horizons.  
 👯 **Collaboration Goals**: Excited to work on **decentralized applications**, **secure software systems**, and **smart device integrations**.  
 🌍 **Areas of Exploration**: Delving into **Machine Learning** and **Power BI** to unlock data-driven insights.  
-<!-- 📫 Portfolio: [https://portfolio-janindu.vercel.app/](https://portfolio-janindu.vercel.app/) -->
+📫 Portfolio: [https://janithagamage-portfolio.vercel.app/](https://janithagamage-portfolio.vercel.app/)
 ♏ Nickname: **CJ7**  
 ⚡ Fun fact: **I love gaming and AI-driven web development!**  
 
