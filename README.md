@@ -84,15 +84,15 @@ I’m a **Full-Stack Developer** and **Software Engineering undergraduate at SLI
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JordanCJ7&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&v=1" alt="JordanCJ7">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JordanCJ7&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=1" alt="JordanCJ7" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCJ7&layout=compact&theme=vision-friendly-dark" />
+  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=JordanCJ7&theme=vision-friendly-dark&hide_border=false&v=2" />
 </p>
 
 ## 🏆 Certifications & Achievements
@@ -103,5 +103,5 @@ I’m a **Full-Stack Developer** and **Software Engineering undergraduate at SLI
 * 🤖 **GitHub Copilot Fundamentals** – Microsoft Learn
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JordanCJ7&theme=radical&no-bg=true" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=JordanCJ7&theme=radical&no-frame=false&no-bg=true&margin-w=2&v=4" alt="Github Profile Trophies">
 </p>
