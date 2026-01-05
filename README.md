@@ -2,17 +2,18 @@
   <img alt="Lonely Developer" src="/octocat/github.gif" width="750px">
 </div>
 
-# 👋 Hi, I’m Janitha Gamage (CJ7)
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Software+Engineering+Undergraduate+@+SLIIT;Postman+Student+Expert;Building+Scalable+Web+Systems" />
-</p>
+    <img alt="Typing animation introducing Janitha Gamage" src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=900&height=80&duration=5000&lines=Hello+Folks!+🌍;+I'm+Janitha+Gamage!+🤠;+Emerging+Developer+and+Product+Strategist+💼;+FullStack+Developer+👨‍💻;+Software+Engineering+Undergratuate+🎓;+Postman+Student+Expert+✏️;+Microsoft+Student+ambassador+🏅;" />
+<p>
 
 <p align="center">
   <a href="https://github.com/JordanCJ7"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/janithagamage/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/janithagamage/"><img src="https://img.shields.io/badge/LinkedIn-0072B1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://medium.com/@janithasuranjana2001"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://instagram.com/janitha.gamage.01"><img alt="Instagram profile link" src="https://img.shields.io/badge/Instagram-FD1D1D?style=for-the-badge&logo=instagram"></a>
+  <a href="https://x.com/JanithaGamage01"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://facebook.com/janitha.gamage.01"><img alt="Facebook profile link" src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook"></a>
   <a href="mailto:janithasuranjana2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://x.com/JanithaGamage01"><img src="https://img.shields.io/badge/X_(Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 
@@ -20,11 +21,11 @@
 
 I’m a **Full-Stack Developer** and **Software Engineering undergraduate at SLIIT**, passionate about building **scalable, production-ready web applications** and solving real-world problems through technology.
 
-* 🔭 **Current Focus:** Full-stack development at **Flashboard**, working on real-world, user-centric systems
+* 🔭 **Current Focus:** Full-stack development at **FuroLabs**, working on real-world, user-centric systems
 * 🌱 **Learning:** Blockchain, AI-driven automation, IoT systems
 * 🤝 **Open to:** Open-source, startups, decentralized apps, secure systems
 * 📊 **Exploring:** Machine Learning & Power BI for data-driven insights
-* 🌐 **Portfolio:** [janithagamage-portfolio.vercel.app](https://janithagamage-portfolio.vercel.app)
+* 🌐 **Portfolio:** [janithagamage.furo.lk](https://janithagamage.furo.lk)
 * ⚡ **Fun fact:** I enjoy gaming and AI-powered web experiences
 
 ## 🛠 Technical Skills
