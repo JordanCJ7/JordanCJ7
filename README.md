@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/janithagamage/"><img src="https://img.shields.io/badge/LinkedIn-0072B1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://medium.com/@janithasuranjana2001"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://instagram.com/janitha.gamage.01"><img alt="Instagram profile link" src="https://img.shields.io/badge/Instagram-FD1D1D?style=for-the-badge&logo=instagram"></a>
-  <a href="https://x.com/JanithaGamage01"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://x.com/JanithaGamage01"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="mdazfar_2" ></a>
   <a href="https://facebook.com/janitha.gamage.01"><img alt="Facebook profile link" src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook"></a>
   <a href="mailto:janithasuranjana2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
