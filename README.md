@@ -1,3 +1,7 @@
+<div align="center">
+  <img alt="Lonely Developer" src="/octocat/github.gif" width="750px">
+</div>
+
 # 👋 Hi, I’m Janitha Gamage (CJ7)
 
 <p align="center">
