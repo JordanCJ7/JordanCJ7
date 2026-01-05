@@ -11,7 +11,6 @@
   <a href="https://x.com/JanithaGamage01"><img src="https://img.shields.io/badge/X_(Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
----
 
 ## 🧠 About Me
 
@@ -23,8 +22,6 @@ I’m a **Full-Stack Developer** and **Software Engineering undergraduate at SLI
 * 📊 **Exploring:** Machine Learning & Power BI for data-driven insights
 * 🌐 **Portfolio:** [janithagamage-portfolio.vercel.app](https://janithagamage-portfolio.vercel.app)
 * ⚡ **Fun fact:** I enjoy gaming and AI-powered web experiences
-
----
 
 ## 🛠 Technical Skills
 
@@ -69,8 +66,6 @@ I’m a **Full-Stack Developer** and **Software Engineering undergraduate at SLI
 ![React Native](https://go-skill-icons.vercel.app/api/icons?i=reactnative)
 ![Figma](https://go-skill-icons.vercel.app/api/icons?i=figma)
 
----
-
 ## 🚀 Featured Projects
 
 | Project                | Description                                                        | Tech Stack         | Link                                                       |
@@ -80,8 +75,6 @@ I’m a **Full-Stack Developer** and **Software Engineering undergraduate at SLI
 | **EarthScope**         | Country information platform using REST Countries API              | React, JavaScript  | [Repo](https://github.com/JordanCJ7/EarthScope-JavaScript) |
 | **GIF Generator**      | Desktop app for creating custom animated GIFs                      | Python, Tkinter    | [Repo](https://github.com/JordanCJ7/GIF-Generator)         |
 | **Salon Pabalu**       | Web-based salon management system                                  | MERN               | [Repo](https://github.com/JordanCJ7/ITP-Salon-Pabalu)      |
-
----
 
 ## 📊 GitHub Activity
 
@@ -96,8 +89,6 @@ I’m a **Full-Stack Developer** and **Software Engineering undergraduate at SLI
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCJ7&layout=compact&theme=vision-friendly-dark" />
 </p>
-
----
 
 ## 🏆 Certifications & Achievements
 
