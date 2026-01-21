@@ -103,5 +103,5 @@ I’m a **Full-Stack Developer** and **Software Engineering undergraduate at SLI
 * 🤖 **GitHub Copilot Fundamentals** – Microsoft Learn
 
 <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=JordanCJ7&theme=radical&no-frame=false&no-bg=true&margin-w=2&v=4" alt="Github Profile Trophies">
+  <img align="center" src="https://trophygh.kolioaris.xyz?username=JordanCJ7&theme=onedark" alt="Github Profile Trophies">
 </p>
