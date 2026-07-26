@@ -84,11 +84,11 @@ I’m a **Full-Stack Developer** and **Software Engineering undergraduate at SLI
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img align="center" src="./assets/github-metrics.svg" alt="JordanCJ7 GitHub Metrics">
+  <img align="center" src="./assets/github-readme-stats.svg" alt="JordanCJ7 GitHub Stats">
 </p>
 
 <p align="center">
-  <img align="center" src="./assets/metrics.plugin.languages.svg" alt="Top Languages">
+  <img align="center" src="./assets/top-langs.svg" alt="Top Languages">
 </p>
 
 <p align="center">
@@ -101,7 +101,3 @@ I’m a **Full-Stack Developer** and **Software Engineering undergraduate at SLI
 * 📘 **Introduction to Git** – Microsoft Learn
 * 📘 **Introduction to GitHub** – Microsoft Learn
 * 🤖 **GitHub Copilot Fundamentals** – Microsoft Learn
-
-<p align="center">
-  <img align="center" src="./assets/metrics.plugin.habits.svg" alt="GitHub Coding Habits">
-</p>
