@@ -23,19 +23,35 @@ jobs:
         with:
           fetch-depth: 0
 
-      # Step 1: Generate Classic GitHub Readme Stats & Top Languages Cards
-      - name: Generate Readme Stats & Top Languages
+      # Step 1: Generate Classic GitHub Readme Stats Card
+      - name: Generate Readme Stats Card
         uses: stats-organization/github-readme-stats-action@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          username: JordanCJ7
-          output_dir: assets
-          theme: vision-friendly-dark
-          show_icons: true
-          count_private: true
-          include_all_commits: true
+          card: stats
+          path: assets/github-readme-stats.svg
+          options: |
+            username: JordanCJ7
+            theme: vision-friendly-dark
+            show_icons: true
+            count_private: true
+            include_all_commits: true
 
-      # Step 2: Contribution Grid Snake Animation
+      # Step 2: Generate Top Languages Card
+      - name: Generate Top Languages Card
+        uses: stats-organization/github-readme-stats-action@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          card: top-langs
+          path: assets/top-langs.svg
+          options: |
+            username: JordanCJ7
+            theme: vision-friendly-dark
+            layout: compact
+            count_private: true
+            include_all_commits: true
+
+      # Step 3: Contribution Grid Snake Animation
       - name: Generate Snake Animation
         uses: platane/snk/svg-only@v3
         with:
@@ -43,7 +59,7 @@ jobs:
           outputs: |
             assets/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Step 3: Commit and Push all generated assets back to repository
+      # Step 4: Commit and Push all generated assets back to repository
       - name: Commit & Push Assets
         run: |
           git config --global user.name "github-actions[bot]"
