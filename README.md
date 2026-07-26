@@ -103,5 +103,5 @@ I’m a **Full-Stack Developer** and **Software Engineering undergraduate at SLI
 * 🤖 **GitHub Copilot Fundamentals** – Microsoft Learn
 
 <p align="center">
-  <img align="center" src="./assets/metrics.plugin.achievements.svg" alt="Github Profile Achievements">
+  <img align="center" src="./assets/metrics.plugin.achievements.svg" alt="GitHub Profile Achievements">
 </p>
