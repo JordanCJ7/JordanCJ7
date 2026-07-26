@@ -23,42 +23,48 @@ jobs:
         with:
           fetch-depth: 0
 
-      # Step 1: Base Metrics & Stats Overview
+      # Step 1: Base Metrics & Stats Overview (including Languages)
       - name: General Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: JordanCJ7
           filename: assets/github-metrics.svg
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Colombo
-
-      # Step 2: Top Languages Breakdown
-      - name: Top Languages
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: JordanCJ7
-          filename: assets/metrics.plugin.languages.svg
-          base: ""
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage, bytes-size
           plugin_languages_limit: 8
           config_timezone: Asia/Colombo
 
-      # Step 3: Achievements & Badges
-      - name: Achievements
+      # Step 2: Standalone Top Languages Breakdown
+      - name: Top Languages
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: JordanCJ7
-          filename: assets/metrics.plugin.achievements.svg
+          filename: assets/metrics.plugin.languages.svg
           base: ""
-          plugin_achievements: yes
-          plugin_achievements_threshold: X
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_limit: 8
+          config_timezone: Asia/Colombo
+
+      # Step 3: Coding Habits & Activity Stats
+      - name: Coding Habits
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: JordanCJ7
+          filename: assets/metrics.plugin.habits.svg
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
           config_timezone: Asia/Colombo
 
       # Step 4: Contribution Grid Snake Animation
