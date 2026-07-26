@@ -84,15 +84,15 @@ I’m a **Full-Stack Developer** and **Software Engineering undergraduate at SLI
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&v=1" alt="JordanCJ7">
+  <img align="center" src="./assets/github-metrics.svg" alt="JordanCJ7 GitHub Metrics">
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=1" alt="JordanCJ7" />
+  <img align="center" src="./assets/metrics.plugin.languages.svg" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=JordanCJ7&theme=vision-friendly-dark&hide_border=false&v=2" />
+  <img align="center" src="./assets/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
 </p>
 
 ## 🏆 Certifications & Achievements
@@ -103,5 +103,5 @@ I’m a **Full-Stack Developer** and **Software Engineering undergraduate at SLI
 * 🤖 **GitHub Copilot Fundamentals** – Microsoft Learn
 
 <p align="center">
-  <img align="center" src="https://trophygh.kolioaris.xyz?username=JordanCJ7&theme=onedark" alt="Github Profile Trophies">
+  <img align="center" src="./assets/metrics.plugin.achievements.svg" alt="Github Profile Achievements">
 </p>
