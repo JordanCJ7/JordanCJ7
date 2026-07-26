@@ -9,6 +9,9 @@ on:
       - main
       - master
 
+env:
+  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: "true"
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -17,6 +20,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       # Step 1: Base Metrics & Stats Overview
       - name: General Metrics
@@ -66,7 +71,13 @@ jobs:
 
       # Step 5: Commit and Push all generated assets back to repository
       - name: Commit & Push Assets
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "auto: update profile metrics and assets [skip ci]"
-          file_pattern: "assets/*.svg"
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          if [ -n "$(git status --porcelain assets/)" ]; then
+            git commit -m "auto: update profile metrics and assets [skip ci]"
+            git push
+          else
+            echo "No changes in assets to commit."
+          fi
