@@ -69,7 +69,7 @@ jobs:
           outputs: |
             assets/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Step 5: Commit and Push all generated assets back to repository
+      # Step 5: Commit and Push all remaining generated assets
       - name: Commit & Push Assets
         run: |
           git config --global user.name "github-actions[bot]"
@@ -77,7 +77,8 @@ jobs:
           git add assets/*.svg
           if [ -n "$(git status --porcelain assets/)" ]; then
             git commit -m "auto: update profile metrics and assets [skip ci]"
-            git push
+            git pull --rebase origin ${{ github.ref_name }}
+            git push origin ${{ github.ref_name }}
           else
             echo "No changes in assets to commit."
           fi
