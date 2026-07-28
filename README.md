@@ -104,6 +104,6 @@ I’m a **Full-Stack Developer** and **Software Engineering undergraduate at SLI
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=JordanCJ7&theme=onedark" alt="GitHub Profile Trophies">
+    <img align="center" src="https://github-profile-trophy-ruddy-three.vercel.app/?username=JordanCJ7&theme=onedark" alt="GitHub Profile Trophies">
   </a>
 </p>
