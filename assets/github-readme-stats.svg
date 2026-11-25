@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Janitha Gamage&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 59, Total Commits  (last year) : 1344, Total PRs: 390, Total Issues: 188, Contributed to (last year): 22</desc>
+        <desc id="descId">Total Stars Earned: 59, Total Commits  (last year) : 1346, Total PRs: 390, Total Issues: 188, Contributed to (last year): 22</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 45.99396894380757;
+        stroke-dashoffset: 45.98839113996572;
       }
     }
   
